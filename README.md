@@ -1,6 +1,12 @@
 # Amit_Final_Year_Project_March
 This repository is used here to store the March Updated Project code.
 
+Steps covered in this Sprint:
+
+   1. Creating Database for login.
+   2. Creating Database and Tables for signup.
+   3. Developing a Database Schema.
+    
 About the Project: The project title is: E-commerce Shopping Site with SEO features.
 
 This is a team project of:
